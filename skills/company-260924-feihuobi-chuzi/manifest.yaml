@@ -1,0 +1,23 @@
+name: company-260924-feihuobi-chuzi
+title: 非货币出资
+positioning: 非货币出资的形式、评估与常见风险
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 3e4fa64da98a08cd9ed01b07c7956c1b7e08792d099308a6c41be97e3fd10379

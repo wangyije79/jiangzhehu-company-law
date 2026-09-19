@@ -1,0 +1,23 @@
+name: company-261001-duiwai-danbao
+title: 对外担保
+positioning: 对外担保的决议要求与越权担保效力
+pillar: 股东权利与公司治理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: d0761fb985b691300f3c84d53c0837a34a65fd5444db5cc5191d4a8853b321e7

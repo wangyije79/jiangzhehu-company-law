@@ -1,0 +1,23 @@
+name: company-260926-zhixingquan
+title: 股东知情权
+positioning: 股东查账的范围、程序与公司抗辩
+pillar: 股东权利与公司治理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 5bca0936a0d812b8ec93c0402da1e9c8165dfb8693c73956aaa9181e3b8babb4

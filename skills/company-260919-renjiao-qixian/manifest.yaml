@@ -1,0 +1,23 @@
+name: company-260919-renjiao-qixian
+title: 认缴期限调整
+positioning: 存量公司认缴期限调整的窗口期与操作
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 607fb5bc48e989b3f5bd8c143228701b0a585fd47ded6df5012e47274c04e91c

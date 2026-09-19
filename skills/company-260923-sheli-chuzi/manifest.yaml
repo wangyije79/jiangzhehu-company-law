@@ -1,0 +1,23 @@
+name: company-260923-sheli-chuzi
+title: 设立时出资不足
+positioning: 设立时出资不足的股东连带责任
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 0ffe8a5b4dfb9bd9acb00dc4e03139a5fdfcf5f399f0db9d8572abacb8a8f1a9

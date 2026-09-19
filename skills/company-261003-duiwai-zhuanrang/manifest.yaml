@@ -1,0 +1,23 @@
+name: company-261003-duiwai-zhuanrang
+title: 股权对外转让
+positioning: 对外转让的通知义务与优先购买权
+pillar: 交易与退出场景
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 24467eb895094c652b804938bb542db08201c105cc9525874ec514e8bf9e828c

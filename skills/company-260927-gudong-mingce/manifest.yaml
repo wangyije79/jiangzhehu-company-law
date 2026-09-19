@@ -1,0 +1,23 @@
+name: company-260927-gudong-mingce
+title: 股东名册与资格
+positioning: 股东资格的认定依据与名册变更
+pillar: 股东权利与公司治理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 402131335089091b77a83c1db357e614b6006858928b823844bfdcb40d5c7bde

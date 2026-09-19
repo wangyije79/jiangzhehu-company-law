@@ -1,0 +1,23 @@
+name: company-260925-zhuanrang-chuzi
+title: 转让后的出资责任
+positioning: 股权转让后出资义务由谁承担
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: d2d2b58edb69d895ee9dcf87b240806841ca859822df2c2bd8128d803f3388c5

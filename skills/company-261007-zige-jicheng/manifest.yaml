@@ -1,0 +1,23 @@
+name: company-261007-zige-jicheng
+title: 股东资格继承
+positioning: 自然人股东死亡后的资格继承与章程限制
+pillar: 交易与退出场景
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 4af990a84f2ba4076a80e3174a9d7c8659e0f4ee1afecfe099a024a4aab6e80c

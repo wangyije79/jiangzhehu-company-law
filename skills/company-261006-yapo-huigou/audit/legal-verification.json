@@ -1,0 +1,36 @@
+{
+ "day": "261006",
+ "topic": "控股股东压迫救济",
+ "pillar": "交易与退出场景",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "law_version": "中华人民共和国公司法(2023修订)",
+ "law_implement_date": "2024-07-01",
+ "law_timeliness": "现行有效",
+ "laws": [
+  {
+   "name": "公司法",
+   "article": 89,
+   "verified": true,
+   "note": "控股股东滥用权利时的回购请求权"
+  },
+  {
+   "name": "公司法",
+   "article": 21,
+   "verified": true,
+   "note": "禁止滥用股东权利"
+  },
+  {
+   "name": "公司法",
+   "article": 22,
+   "verified": true,
+   "note": "禁止利用关联关系损害公司利益"
+  }
+ ],
+ "cases": {
+  "has_verified_case_numbers": false,
+  "note": "未核验具体案号，故不引用案号；仅归纳公开裁判文书的普遍做法，表述用「通常」「实践中多」。"
+ },
+ "notes": "法条逐字回库核验；law.md 仅含干净条文，无 MCP 元数据。"
+}

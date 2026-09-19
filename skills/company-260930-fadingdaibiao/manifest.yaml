@@ -1,0 +1,23 @@
+name: company-260930-fadingdaibiao
+title: 法定代表人辞任
+positioning: 法定代表人辞任规则与涤除登记路径
+pillar: 股东权利与公司治理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: f48f2a2c880755a3d6f9f4626e86395a65350e8a94a102b8f81200c0b4692b49

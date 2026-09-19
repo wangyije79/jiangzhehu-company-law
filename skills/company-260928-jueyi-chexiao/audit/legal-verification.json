@@ -1,0 +1,36 @@
+{
+ "day": "260928",
+ "topic": "决议撤销",
+ "pillar": "股东权利与公司治理",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "law_version": "中华人民共和国公司法(2023修订)",
+ "law_implement_date": "2024-07-01",
+ "law_timeliness": "现行有效",
+ "laws": [
+  {
+   "name": "公司法",
+   "article": 26,
+   "verified": true,
+   "note": "决议撤销权与除斥期间"
+  },
+  {
+   "name": "公司法",
+   "article": 25,
+   "verified": true,
+   "note": "决议内容违法的无效"
+  },
+  {
+   "name": "公司法",
+   "article": 27,
+   "verified": true,
+   "note": "决议不成立的情形"
+  }
+ ],
+ "cases": {
+  "has_verified_case_numbers": false,
+  "note": "未核验具体案号，故不引用案号；仅归纳公开裁判文书的普遍做法，表述用「通常」「实践中多」。"
+ },
+ "notes": "法条逐字回库核验；law.md 仅含干净条文，无 MCP 元数据。"
+}

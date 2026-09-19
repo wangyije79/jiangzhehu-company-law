@@ -1,0 +1,23 @@
+name: company-260921-cuijiao-shiquan
+title: 催缴与股东失权
+positioning: 董事会催缴义务与股东失权的适用条件
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 0fb95aee537be22bee0d6c6070260ac839bfc9269763bc9cfb2ac1fa4a150da0

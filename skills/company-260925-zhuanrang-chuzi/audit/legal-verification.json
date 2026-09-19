@@ -1,0 +1,36 @@
+{
+ "day": "260925",
+ "topic": "转让后的出资责任",
+ "pillar": "注册资本与股东责任",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "law_version": "中华人民共和国公司法(2023修订)",
+ "law_implement_date": "2024-07-01",
+ "law_timeliness": "现行有效",
+ "laws": [
+  {
+   "name": "公司法",
+   "article": 88,
+   "verified": true,
+   "note": "股权转让后的出资责任"
+  },
+  {
+   "name": "公司法",
+   "article": 86,
+   "verified": true,
+   "note": "股权转让的名册变更"
+  },
+  {
+   "name": "公司法",
+   "article": 49,
+   "verified": true,
+   "note": "股东按期足额缴纳出资义务"
+  }
+ ],
+ "cases": {
+  "has_verified_case_numbers": false,
+  "note": "未核验具体案号，故不引用案号；仅归纳公开裁判文书的普遍做法，表述用「通常」「实践中多」。"
+ },
+ "notes": "法条逐字回库核验；law.md 仅含干净条文，无 MCP 元数据。"
+}

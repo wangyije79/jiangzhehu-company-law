@@ -1,0 +1,23 @@
+name: company-261002-dongjianguan-zeren
+title: 董监高责任
+positioning: 董监高的忠实勤勉义务与赔偿责任
+pillar: 股东权利与公司治理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: c1317bab7a83f1d29a3671515b44bc24032821d0fdbe5258ef114ef8dd73c0de

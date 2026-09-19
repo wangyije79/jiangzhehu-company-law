@@ -1,0 +1,23 @@
+name: company-260922-choutao-chuzi
+title: 抽逃出资
+positioning: 抽逃出资的认定与董监高连带责任
+pillar: 注册资本与股东责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+law_version: 中华人民共和国公司法(2023修订)
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: a3cd72ee360f839c58f52fb981d20f645de9f7620374bfdf7ba3cdf6ac3cfb3a
